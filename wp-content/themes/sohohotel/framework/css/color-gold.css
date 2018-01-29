@@ -1,0 +1,225 @@
+/* Body Background Color #666 */
+body {
+	background: #666;
+}
+
+/* Main Highlight Colour #b19f6a */
+.header-wrapper-1 .top-right-button,
+.header-wrapper-1 .navigation li ul li a:hover,
+.header-wrapper-1 .navigation li ul li.current-menu-item a,
+.header-wrapper-1 .navigation li ul li.current_page_item a,
+.header-wrapper-2 .top-right-button,
+.header-wrapper-2 .navigation li ul li a:hover,
+.header-wrapper-2 .navigation li ul li.current-menu-item a,
+.header-wrapper-2 .navigation li ul li.current_page_item a,
+.header-wrapper-3 .navigation li ul li a:hover,
+.header-wrapper-3 .navigation li ul li.current-menu-item a,
+.header-wrapper-3 .navigation li ul li.current_page_item a,
+.header-wrapper-3 .top-right-button,
+.header-wrapper-4 .top-right-button,
+.header-wrapper-4 .navigation li ul li a:hover,
+.header-wrapper-4 .navigation li ul li.current-menu-item a,
+.header-wrapper-4 .navigation li ul li.current_page_item a,
+.header-wrapper-4 .menu-button,
+.mobile-navigation-wrapper ul li a:hover,
+.slideshow-button-rooms,
+.slideshow-button-testimonials,
+.title-block-0,
+.content-wrapper table th,
+.footer table th,
+.button0,
+.button1:hover,
+.button3:hover,
+.button5:hover,
+.button2,
+.button4,
+.button6,
+.main-content button,
+#submit-button,
+.wpcf7-submit,
+.accordion h4:before,
+.toggle h4:before,
+.title-block-1,
+.booking-form button,
+.title-block-2,
+.rooms-block-image .new-icon,
+.owl-theme .owl-dots .owl-dot span,
+.view-details-button,
+.room-style-2 .image-room-price,
+.room-style-2 .rooms-block i,
+.pp_close,
+#page-header .title-block-5,
+.widget-block,
+.more-link,
+.page-not-found .title-block-5,
+.page-not-found form button,
+.main-content .search-results-form button,
+.page-pagination li span.current,
+.page-pagination li a:hover,
+.wp-pagenavi span.current,
+.wp-pagenavi a:hover,
+.post-pagination span,
+.post-pagination span:hover,
+.title-block-6,
+#ui-datepicker-div a:hover,
+.booking-side .edit-booking-button,
+.service_button,
+.booking-step-wrapper .step-icon-current,
+.ui-datepicker-calendar tbody tr td a:hover,
+#open_datepicker .ui-datepicker-calendar .dp-highlight .ui-state-default,
+.room-sidebar-wrapper .edit-room-button a,
+.footer-bottom,
+.newsletter-form button,
+.footer .tnp-field input[type="submit"],
+.title-block-3,
+.title-block-4,
+.title-block6,
+.title-block8,
+.vc_tta-panels .vc_tta-panel-title:before,
+.main-content-lightbox .total-price-lightbox {
+	background: #b19f6a;
+}
+
+.pp_close {
+	background: url("../images/close.png") no-repeat center #b19f6a;
+}
+
+.content-wrapper ul li:before,
+.main-content ul li:before,
+.main-content blockquote:before,
+.main-content .social-links li i,
+.content-wrapper p a,
+.latest-news-block-content .news-meta .nm-news-date:before,
+.latest-news-block-content .news-meta .nm-news-comments:before,
+.testimonial-wrapper div span.qns-open-quote,
+.testimonial-wrapper div span.qns-close-quote,
+.news-block-wrapper .news-meta .nm-news-author:before,
+.news-block-wrapper .news-meta .nm-news-date:before,
+.news-block-wrapper .news-meta .nm-news-category:before,
+.news-block-wrapper .news-meta .nm-news-comments:before,
+.footer ul li:before,
+.booking-main .footer-social-icons-wrapper a {
+	color: #b19f6a;
+}
+
+.header-wrapper-1 .navigation li.current_page_item > a,
+.header-wrapper-1 .navigation li a:hover,
+.header-wrapper-2 .navigation li.current_page_item > a,
+.header-wrapper-2 .navigation li a:hover,
+.header-wrapper-1 .navigation li.current-menu-ancestor > a,
+.header-wrapper-2 .navigation li.current-menu-ancestor > a {
+	border-bottom: #b19f6a 3px solid;
+}
+
+.header-wrapper-4 .navigation li.current_page_item > a,
+.header-wrapper-4 .navigation li a:hover,
+.room-style-2 .rooms-block,
+.room-style-2 .room-1-cols .rooms-block,
+.room-style-2 .room-1-cols .rooms-block:last-child {
+	border-bottom: #b19f6a 2px solid;
+}
+
+.header-wrapper-3 .navigation li.current_page_item > a,
+.header-wrapper-3 .navigation li a:hover {
+	border-top: #b19f6a 3px solid;
+}
+
+#tabs .ui-tabs-nav li.ui-state-active {
+	border-top: #b19f6a 4px solid;
+}
+
+.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active > a {
+	border-top: #b19f6a 4px solid !important;
+}
+
+.main-content blockquote {
+	border-left: #b19f6a 3px solid;
+}
+
+.button1:hover,
+.button3:hover,
+.button5:hover,
+.page-pagination li span.current,
+.page-pagination li a:hover,
+.wp-pagenavi span.current,
+.wp-pagenavi a:hover,
+.post-pagination span,
+.post-pagination span:hover {
+	border: #b19f6a 1px solid;
+}
+
+.owl-theme .owl-dots .owl-dot span, .owl-theme .owl-dots .owl-dot.active span {
+	border: #b19f6a 3px solid;
+}
+
+/* Main Background Colour #1c1c1c */
+.header-wrapper-1 .top-bar-wrapper,
+.header-wrapper-2 .top-bar-wrapper,
+.header-wrapper-2 .navigation,
+.header-wrapper-3,
+.header-wrapper-3 .top-bar-wrapper,
+.header-wrapper-4 .top-bar-wrapper,
+.mobile-navigation-wrapper,
+.wide-booking-form,
+.our-rooms-section,
+.main-content .search-results-form,
+#ui-datepicker-div,
+.booking-background-image .booking-background-image-inner .booking-form,
+.sidebar-booking-form .booking-form,
+.room-price-widget .from,
+.room-price-widget .price-detail,
+.booking-side-wrapper,
+.booking-main-wrapper,
+.price-details .deposit,
+.price-details .total,
+.header-wrapper-2 .fixed-navigation-show-wrapper #primary-navigation,
+.header-wrapper-3 .fixed-navigation-show-wrapper #primary-navigation,
+.header-wrapper-4 .fixed-navigation-show-wrapper #primary-navigation,
+.header-wrapper-4 {
+	background: #1c1c1c;
+}
+
+.lightbox-title {
+	background: #1c1c1c;
+}
+
+.step-icon {
+	background: #1c1c1c;
+}
+
+.step-line {
+	background: #1c1c1c;
+}
+
+.footer {
+	background: #1c1c1c;
+}
+
+#open_datepicker .ui-datepicker-calendar .ui-datepicker-unselectable .ui-state-default,
+#open_datepicker tbody tr td a,
+#open_datepicker .ui-datepicker-calendar tbody tr td span {
+	border-right: #1c1c1c 1px solid;
+}
+
+#open_datepicker .ui-datepicker-calendar .ui-datepicker-unselectable .ui-state-default,
+#open_datepicker .ui-datepicker-calendar tbody tr td a, 
+#open_datepicker .ui-datepicker-calendar tbody tr td span {
+	border-bottom: #1c1c1c 1px solid;
+}
+
+#open_datepicker .ui-datepicker-prev:after,
+#open_datepicker .ui-datepicker-next:after,
+.booking-main .contact-list .phone-icon:before, 
+.booking-main .contact-list .fax-icon:before, 
+.booking-main .contact-list .email-icon:before, 
+.booking-main .contact-list .address-icon:before {
+	color: #1c1c1c;
+}
+
+@media only screen and (max-width: 1020px) {
+	
+	.header-wrapper-4 {
+	    background: #1c1c1c !important;
+	}
+	
+}
